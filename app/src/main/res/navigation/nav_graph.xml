@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.lumenizure.afinal.ui.home.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/navigation_kegiatan"
+        android:name="com.lumenizure.afinal.ui.kegiatan.KegiatanFragment"
+        android:label="Kegiatan" />
+
+    <fragment
+        android:id="@+id/navigation_dosen"
+        android:name="com.lumenizure.afinal.ui.dosen.DosenFragment"
+        android:label="Dosen" />
+
+    <fragment
+        android:id="@+id/navigation_peminatan"
+        android:name="com.lumenizure.afinal.ui.peminatan.PeminatanFragment"
+        android:label="Peminatan" />
+
+    <fragment
+        android:id="@+id/navigation_profil"
+        android:name="com.lumenizure.afinal.ui.profil.ProfilFragment"
+        android:label="Profil" />
+</navigation>

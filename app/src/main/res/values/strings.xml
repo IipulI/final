@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Final</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Kegiatan -->
+    <string name="kegiatan_title">Kegiatan</string>
+    <string name="kegiatan_1_headline">Kegiatan Stakeholder Mapping, UIKA Bogor Bahas Keberlangsungan Sungai Ciliwung</string>
+    <string name="kegiatan_1_desc">Universitas Ibn Khaldun (UIKA) Bogor bekerja sama dengan Komunitas Peduli Ciliwung (KPC) dan Alkesa menyelenggarakan pelatihan pemetaan stakeholder pengelolaan Sungai Ciliwung pada Selasa (2/7/2024). Kegiatan ini merupakan bagian dari rangkaian Milad ke-63 UIKA Bogor, dengan tujuan untuk meningkatkan kesadaran dan partisipasi berbagai pihak dalam upaya pelestarian dan perbaikan kualitas lingkungan Sungai Ciliwung.</string>
+    <string name="kegiatan_2_headline">riset penelitian terhadap air limbah yang ada di sungai Cisadane bubulak kota Bogor</string>
+    <string name="kegiatan_2_desc">Universitas Ibn Khaldun (UIKA) Bogor melalui Program Studi Ilmu Lingkungan menyelenggarakan penelitian kualitas air di Sungai Cisadane pada Rabu (5/1/2023). Penelitian ini bertujuan untuk mengedukasi masyarakat tentang bahaya pencemaran limbah rumah tangga dan industri yang dibuang ke sungai, sekaligus mengukur kualitas air dan udara di sekitar wilayah tersebut.
+
+Kegiatan ini melibatkan mahasiswa Program Studi Ilmu Lingkungan UIKA Bogor yang dibimbing oleh dosen dan pengawas profesional, serta menggunakan peralatan laboratorium berstandar nasional (SNI). Penelitian ini juga diharapkan mampu meningkatkan kesadaran masyarakat akan pentingnya menjaga kualitas lingkungan dan ekosistem sungai.</string>
+    <string name="kegiatan_3_headline">Eksplorasi Mendalam terhadap Kondisi Kualitas Air di Sungai Cisindang barang </string>
+    <string name="kegiatan_3_desc">Universitas Ibn Khaldun (UIKA) Bogor melalui Program Studi Ilmu Lingkungan melaksanakan eksplorasi mendalam mengenai kualitas air di Sungai Cisindang Barang pada Sabtu (2/12/2023). Penelitian ini bertujuan untuk memahami kondisi kualitas air sungai serta memberikan solusi pengelolaan berkelanjutan yang dapat menjaga keseimbangan ekosistem dan kesehatan masyarakat.
+
+Kegiatan ini dilakukan oleh mahasiswa Ilmu Lingkungan UIKA bekerja sama dengan tim dari Halqi Lab. Dalam penelitian ini, berbagai parameter fisika, kimia, dan biologi dianalisis secara komprehensif untuk mengungkap pola pencemaran, mengidentifikasi sumber limbah, serta merumuskan strategi pengelolaan yang tepat. Dengan menggunakan pendekatan berbasis data ilmiah dan peralatan modern, kegiatan ini diharapkan dapat meningkatkan kesadaran masyarakat terhadap pentingnya menjaga kualitas lingkungan dan kelestarian sungai sebagai sumber kehidupan.</string>
+    <string name="kegiatan_4_headline">Meneliti Polusi Udara di Jl. KH. R. Abdullah Bin Nuh, Bubulak, Kec. Bogor Barat, Kota Bogor</string>
+    <string name="kegiatan_4_desc">Universitas Ibn Khaldun (UIKA) Bogor melalui Program Studi Ilmu Lingkungan melaksanakan penelitian polusi udara di Jl. KH. R. Abdullah Bin Nuh, Bubulak, Kecamatan Bogor Barat, pada Sabtu (2/12/2023). Penelitian ini bekerja sama dengan Halqi Lab untuk mengidentifikasi sumber pencemaran, menganalisis jenis polutan, dan menilai dampaknya terhadap kesehatan serta lingkungan.
+
+Melibatkan mahasiswa yang dibimbing oleh dosen dan tenaga ahli, penelitian ini menggunakan peralatan berstandar nasional. Kegiatan ini diharapkan dapat meningkatkan kesadaran masyarakat akan pentingnya udara bersih dan keseimbangan ekosistem guna mendukung kualitas hidup yang lebih baik.</string>
+    <string name="kegiatan_5_headline">Kunjungan Edukatif ke SMK PUI dan SMA Taruna Andigha</string>
+    <string name="kegiatan_5_desc">Universitas Ibn Khaldun (UIKA) Bogor melalui Program Studi Ilmu Lingkungan berkesempatan melakukan kunjungan edukatif ke SMK PUI dan SMA Taruna Andigha pada Jumat (10/2/2023). Kegiatan ini bertujuan untuk memberikan wawasan mengenai pentingnya menjaga lingkungan serta memperkenalkan upaya-upaya sederhana yang dapat dilakukan untuk mendukung keberlanjutan ekosistem.</string>
+
+    <!-- Dosen -->
+    <string name="dosen_title">Dosen</string>
+
+    <!-- Peminatan -->
+    <string name="peminatan_title">Peminatan</string>
+    <string name="peminatan_1">Peminatan Toksikologi (Pencemaran)</string>
+    <string name="peminatan_2">Peminatan Bologi Lingkungan</string>
+    <string name="peminatan_3">Peminatan Analisis Jasa Ekosistem dan Pemodelan Geospasial Lingkungan</string>
+    <string name="peminatan_4">Peminatan Sosio-Ekonomi dan Kelembagaan Lingkungan</string>
+
+    <!-- Profil -->
+    <string name="profile_title">Kelompok</string>
+    <string name="anggota_1">Muhammad Syaifullah Nurrohman</string>
+    <string name="anggota_2">Muhammad Danise Raditya Saneitha</string>
+    <string name="anggota_3">Muhammad Alfa Rizki</string>
+    <string name="npm_1">221106043033</string>
+    <string name="npm_2">221106042959</string>
+    <string name="npm_3">221106042811</string>
+</resources>

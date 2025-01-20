@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_fas_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_kegiatan"
+        android:icon="@drawable/ic_fas_calendar_alt"
+        android:title="Kegaitan" />
+    <item
+        android:id="@+id/navigation_dosen"
+        android:icon="@drawable/ic_fas_users"
+        android:title="Dosen" />
+    <item
+        android:id="@+id/navigation_peminatan"
+        android:icon="@drawable/ic_fas_book"
+        android:title="Peminatan" />
+    <item
+        android:id="@+id/navigation_profil"
+        android:icon="@drawable/ic_fas_user"
+        android:title="Profil" />
+</menu>
