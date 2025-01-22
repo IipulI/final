@@ -18,7 +18,6 @@
             android:layout_height="wrap_content"
             android:text="@string/kegiatan_title"
             android:textSize="32sp"
-            android:textColor="@color/black"
             android:layout_marginTop="35dp"
             android:textStyle="bold"
             />
@@ -28,8 +27,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp" />
-
-
     </LinearLayout>
 
 </FrameLayout>

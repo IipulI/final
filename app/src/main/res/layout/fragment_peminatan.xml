@@ -16,7 +16,6 @@
             android:layout_height="wrap_content"
             android:text="@string/peminatan_title"
             android:textSize="32sp"
-            android:textColor="@color/black"
             android:layout_marginTop="35dp"
             android:layout_marginLeft="30dp"
             android:textStyle="bold"

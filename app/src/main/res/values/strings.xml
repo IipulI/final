@@ -1,9 +1,5 @@
 <resources>
-    <string name="app_name">Final</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
-
+    <string name="app_name">Ilmu Lingkungan</string>
     <!-- Kegiatan -->
     <string name="kegiatan_title">Kegiatan</string>
     <string name="kegiatan_1_headline">Kegiatan Stakeholder Mapping, UIKA Bogor Bahas Keberlangsungan Sungai Ciliwung</string>

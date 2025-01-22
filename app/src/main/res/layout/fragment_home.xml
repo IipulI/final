@@ -75,7 +75,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="About Us"
-                    android:textColor="#000000"
                     android:textSize="35sp"
                     android:textStyle="bold"
                     android:layout_marginBottom="8dp" />
@@ -84,7 +83,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Ilmu lingkungan adalah disiplin ilmiah yang menggabungkan ilmu fisika, biologi, kimia, ekologi, ilmu tanah, geologi, sains atmosfer, dan geografi untuk mempelajari lingkungan dan solusi dari permasalahan lingkungan. Ilmu lingkungan menyediakan pendekatan interdisipliner yang terintegrasi secara kuantitatif untuk mempelajari sistem lingkungan."
-                    android:textColor="#555555"
                     android:textSize="16sp" />
 
                 <View
@@ -98,7 +96,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Visi dan Misi Prodi"
-                    android:textColor="#000000"
                     android:textSize="35sp"
                     android:textStyle="bold"
                     android:layout_marginBottom="8dp" />
@@ -115,7 +112,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Menjadi program studi ilmu lingkungan yang unggul, berakreditasi internasional dan Islami dalam bidang pencegahan dan pengendalian pencemaran dan kerusakan lingkungan hidup yang adaptif dan kolaboratif untuk kemaslahatan masyarakat Indonesia."
-                    android:textColor="#555555"
                     android:textSize="16sp" />
 
                 <TextView
@@ -144,7 +140,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Prospek Lulusan"
-                    android:textColor="#000000"
                     android:textSize="35sp"
                     android:textStyle="bold"
                     android:layout_marginBottom="8dp" />
@@ -166,7 +161,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Kerja Sama dan Mitra"
-                    android:textColor="#000000"
                     android:textSize="35sp"
                     android:textStyle="bold"
                     android:layout_marginBottom="8dp" />
